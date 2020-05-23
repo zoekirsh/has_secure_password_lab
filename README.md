@@ -8,7 +8,7 @@ We're going to make a Rails app that covers a simple authentication flow: users 
 
 Our app has three pages:
   1. A signup page, where the user enters their username (as `name`), password, and password confirmation.
-  2. A login page, where the user submits their username (as `name`) and password and are logged in.
+  2. A login page, where the user submits their username (as `name`) and password and are then logged in.
   3. A user homepage, which says, "Hi, #{name}."
 
 We're not covering validations in this lab, so don't worry about those. (Password validations are hard to get right anyway; it's surprisingly easy to produce rules which decrease password security rather than enhance it.)
