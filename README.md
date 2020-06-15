@@ -27,4 +27,5 @@ Users should not be able to log in if they enter an incorrect password. Just red
 
 Happy coding.
 
+
 [flash]: http://api.rubyonrails.org/classes/ActionDispatch/Flash.html
